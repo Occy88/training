@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zip3</folder>
+	<filename>538.png</filename>
+	<path>C:\Users\T.Buzheyev\Downloads\help_label\captcha 3\zip3\538.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>60</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ұ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>19</ymin>
+			<xmax>40</xmax>
+			<ymax>37</ymax>
+		</bndbox>
+	</object>
+</annotation>

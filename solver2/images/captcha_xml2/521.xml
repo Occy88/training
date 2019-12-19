@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zip3</folder>
+	<filename>521.png</filename>
+	<path>C:\Users\T.Buzheyev\Downloads\help_label\captcha 3\zip3\521.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>60</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Қ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>25</ymin>
+			<xmax>106</xmax>
+			<ymax>47</ymax>
+		</bndbox>
+	</object>
+</annotation>

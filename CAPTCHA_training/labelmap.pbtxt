@@ -1,0 +1,112 @@
+item {
+  id: 1
+  name: 'А'
+}
+item {
+  id: 2
+  name: 'Б'
+}
+item {
+  id: 3
+  name: 'В'
+}
+item {
+  id: 4
+  name: 'Г'
+}
+item {
+  id: 5
+  name: 'Д'
+}
+item {
+  id: 6
+  name: 'Е'
+}
+item {
+  id: 7
+  name: 'Ж'
+}
+item {
+  id: 8
+  name: 'З'
+}
+item {
+  id: 9
+  name: 'И'
+}
+item {
+  id: 10
+  name: 'К'
+}
+item {
+  id: 11
+  name: 'Л'
+}
+item {
+  id: 12
+  name: 'М'
+}
+item {
+  id: 13
+  name: 'Н'
+}
+item {
+  id: 14
+  name: 'О'
+}
+item {
+  id: 15
+  name: 'П'
+}
+item {
+  id: 16
+  name: 'Р'
+}
+item {
+  id: 17
+  name: 'С'
+}
+item {
+  id: 18
+  name: 'Т'
+}
+item {
+  id: 19
+  name: 'У'
+}
+item {
+  id: 20
+  name: 'Ф'
+}
+item {
+  id: 21
+  name: 'Х'
+}
+item {
+  id: 22
+  name: 'Ц'
+}
+item {
+  id: 23
+  name: 'Ч'
+}
+item {
+  id: 24
+  name: 'Ш'
+}
+item {
+  id: 25
+  name: 'Щ'
+}
+item {
+  id: 26
+  name: 'Э'
+}
+item {
+  id: 27
+  name: 'Ю'
+}
+item {
+  id: 28
+  name: 'Я'
+}

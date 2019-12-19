@@ -1,0 +1,26 @@
+<annotation>
+	<folder>captcha</folder>
+	<filename>1048.png</filename>
+	<path>C:\Users\Petr Durnev\Desktop\help_label\captcha\1048.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>60</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ң</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>17</ymin>
+			<xmax>50</xmax>
+			<ymax>44</ymax>
+		</bndbox>
+	</object>
+</annotation>
